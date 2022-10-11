@@ -5,7 +5,7 @@ In the IBM Watson Studio, there is a large collaborative community ecosystem of 
 In this project, I will analyze the interactions the users have with the articles on the IBM Watson Studio platform, and make recommendations to them about new articles they would like.
 
 # File Description 
-The file in this repository "Re" has all the project details including the python codes. 
+The file in this repository "Recommendations_with_IBM_Chen.ipynb" has all the project details including the python codes. 
 
 # Table of Cotents
 
